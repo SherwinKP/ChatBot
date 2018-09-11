@@ -1,0 +1,17 @@
+{
+    "id": "string",
+    "session": {
+        "sessionId": "string"
+    },
+    "request": {
+        "id": "string",
+        "intent": "string",
+        "parameters": {
+            "name": "value"
+        }
+    },
+    "response":
+    {
+        "text": "string"
+    }
+}
